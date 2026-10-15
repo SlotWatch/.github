@@ -1,7 +1,7 @@
 <p align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="profile/roundel-dark.png">
-    <img src="profile/roundel-light.png" alt="SlotWatch" width="200">
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/SlotWatch/.github/main/profile/roundel-dark.png">
+    <img src="https://raw.githubusercontent.com/SlotWatch/.github/main/profile/roundel-light.png" alt="SlotWatch" width="200">
   </picture>
 </p>
 
